@@ -1,37 +1,13 @@
 ## Bob Swetz - Online Business Consultant
 
-You can use the [editor on GitHub](https://github.com/NDSmith215/Home-Business-Online-w-Bob-Swetz/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Home Business Online w/ Bob Swetz was started by Bob Swetz.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+He's been in business for himself for well over 15 years! Starting out as an accountant and owing his own CAP firm, Bob decided he no longer wanted to crunch numbers. So, he closed his CPA firm and moved in to the world of I.T. and started making software products. Though satisfying, making software didn't give Bob the feeling he was looking for. Bob wanted to help people. Yes! People use software all the time. But that wasn't the help Bob wanted give. He wanted to give a more, person-to-person kind of help.
 
-### Markdown
+Bob noticed all of the people starting businesses and how much trouble they were having. He knew the hardships of being a business owner because he was one, himself. Though Bomb's business didn't fail, it still wasn't easy getting to where it was. It took hard work and dedication. He knew just what to do!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+And so, Home Business Online w/ Bob Swetz was born. Bob became a Home Business Consultant! He started a business offering coaching for everyday people, like yourself, who owned their own Home Business. Tips, blogs, advice -- anything you'd want to know about running your home business. Couple that with Self Development help, and you have a recipe for success!
 
-```markdown
-Syntax highlighted code block
+If you need help kickstarting your Home Business, you need a Home Business Consultant! You need Home Business Online w/ Bob Swetz!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NDSmith215/Home-Business-Online-w-Bob-Swetz/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more information about how Bob can help you, go to http://yourperfectfitdsd.blogspot.com/p/rjshome-online-business-consulting.html?m=1
