@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bob Swetz - Online Business Consultant
 
 You can use the [editor on GitHub](https://github.com/NDSmith215/Home-Business-Online-w-Bob-Swetz/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
